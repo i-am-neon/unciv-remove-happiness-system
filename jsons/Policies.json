@@ -1,20 +1,24 @@
 [
   {
-    "name": "Remove Happiness System",          // branch name
+    "name": "Remove Happiness System",
     "era": "Ancient era",
+
+    // Opener: put the effects here (branch-level uniques)
+    "uniques": [
+      "[-100]% Unhappiness from [Population] [in all cities]",
+      "[-100]% Unhappiness from [Specialists] [in all cities]",
+      "[-100]% Unhappiness from [Unemployed] [in all cities]"
+    ],
+
     "policies": [
       {
-        "name": "Remove Happiness System",      // opener: must match branch name
+        "name": "RHS Placeholder",
         "row": 0,
         "column": 0,
-        "uniques": [
-          "[-100]% Unhappiness from [Population] [in all cities]",
-          "[-100]% Unhappiness from [Specialists] [in all cities]",
-          "[-100]% Unhappiness from [Unemployed] [in all cities]"
-        ]
+        "uniques": []
       },
       {
-        "name": "Remove Happiness System Complete",  // finisher
+        "name": "Remove Happiness System Complete",
         "uniques": []
       }
     ]
