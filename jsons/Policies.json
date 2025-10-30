@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RHS_TestBranch_A1f",         // unique branch name
+    "era": "Ancient era",
+    "policies": [
+      {
+        "name": "RHS_ZeroPopUnhappy_A1f", // unique member policy name
+        "row": 0,
+        "column": 0,
+        "uniques": [
+          "[-100]% Unhappiness from [Population] [in all cities]",
+          "[-100]% Unhappiness from [Specialists] [in all cities]",
+          "[-100]% Unhappiness from [Unemployed] [in all cities]"
+        ]
+      },
+      {
+        "name": "RHS_TestBranch_A1f Complete",
+        "uniques": []
+      }
+    ]
+  }
+]
