@@ -1,0 +1,20 @@
+[
+  {
+    "name": "RHS (System Branch)",
+    "era": "Ancient era",
+    "policies": [
+      {
+        "name": "RHS: Zero Unhappiness",
+        "row": 0,
+        "column": 0,
+        "uniques": [
+          "[-100]% unhappiness from the number of cities",
+          "[-100]% Unhappiness from [Population] [in all cities]",
+          "[-100]% Unhappiness from [Specialists] [in all cities]",
+          "[-100]% Unhappiness from [Unemployed] [in all cities]",
+          "[-4] Happiness from each type of luxury resource"
+        ]
+      }
+    ]
+  }
+]
