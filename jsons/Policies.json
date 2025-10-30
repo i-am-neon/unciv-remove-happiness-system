@@ -1,10 +1,11 @@
 [
   {
-    "name": "RHS_TestBranch_A1f",         // unique branch name
+    "name": "RHS Test Branch B1",
     "era": "Ancient era",
+    "uniques": [],
     "policies": [
       {
-        "name": "RHS_ZeroPopUnhappy_A1f", // unique member policy name
+        "name": "RHS Zero Pop Unhappy B1",
         "row": 0,
         "column": 0,
         "uniques": [
@@ -14,7 +15,9 @@
         ]
       },
       {
-        "name": "RHS_TestBranch_A1f Complete",
+        "name": "RHS Test Branch B1 Complete",
+        "row": 0,
+        "column": 2,
         "uniques": []
       }
     ]
