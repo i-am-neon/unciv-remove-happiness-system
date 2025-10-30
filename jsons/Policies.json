@@ -1,11 +1,10 @@
 [
   {
-    "name": "RHS Test Branch B1",
+    "name": "Remove Happiness System",          // branch name
     "era": "Ancient era",
-    "uniques": [],
     "policies": [
       {
-        "name": "RHS Zero Pop Unhappy B1",
+        "name": "Remove Happiness System",      // opener: must match branch name
         "row": 0,
         "column": 0,
         "uniques": [
@@ -15,9 +14,7 @@
         ]
       },
       {
-        "name": "RHS Test Branch B1 Complete",
-        "row": 0,
-        "column": 2,
+        "name": "Remove Happiness System Complete",  // finisher
         "uniques": []
       }
     ]
