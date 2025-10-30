@@ -1,10 +1,10 @@
 [
   {
-    "name": "RHS (System Branch)",
+    "name": "RHS System",
     "era": "Ancient era",
     "policies": [
       {
-        "name": "RHS: Zero Unhappiness",
+        "name": "RHS Zero Unhappiness",
         "row": 0,
         "column": 0,
         "uniques": [
