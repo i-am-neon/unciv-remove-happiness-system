@@ -1,0 +1,28 @@
+[
+  {
+    "name": "RHS — City Neutralizer (Hidden)",
+    "cost": 1,
+    "maintenance": 0,
+    "uniques": [
+      "[-100]% Unhappiness from [Population] [in this city]",
+      "[-100]% Unhappiness from [Specialists] [in this city]",
+      "[-100]% Unhappiness from [Unemployed] [in this city]",
+      "[-100]% unhappiness from the number of cities",
+      "Automatically built in all cities where it is buildable",
+      "Will not be displayed in Civilopedia",
+      "Unbuildable"
+    ]
+  },
+  {
+    "name": "RHS — Occupation Office (Hidden)",
+    "cost": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Removes extra unhappiness from annexed cities",
+      "Automatically built in all cities where it is buildable",
+      "Can only be built <in annexed cities>",
+      "Will not be displayed in Civilopedia",
+      "Unbuildable"
+    ]
+  }
+]
