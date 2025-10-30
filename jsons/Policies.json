@@ -1,10 +1,10 @@
 [
   {
-    "name": "RHS_core_uq_27a",             // unique branch name
+    "name": "Remove Happiness System",
     "era": "Ancient era",
     "policies": [
       {
-        "name": "RHS_zero_unhappy_uq_27a", // unique policy name
+        "name": "Zero Unhappiness",
         "row": 0,
         "column": 0,
         "uniques": [
@@ -14,6 +14,10 @@
           "[-100]% Unhappiness from [Unemployed] [in all cities]",
           "[-4] Happiness from each type of luxury resource"
         ]
+      },
+      {
+        "name": "Remove Happiness System Complete",
+        "uniques": []
       }
     ]
   }
