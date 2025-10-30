@@ -1,0 +1,8 @@
+{
+  "name": "Remove Happiness System",
+  "version": "1.0.0",
+  "minRequiredVersion": "4.18.0",
+  "authors": ["YourName"],
+  "description": "Removes unhappiness penalties and keeps net happiness ~0 by disabling luxury spawns and stripping happiness bonuses.",
+  "set": "Extension"
+}
